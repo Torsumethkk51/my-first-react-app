@@ -8,6 +8,6 @@ This project is my react learning workspace when I'm a new React developer.
 
 + Step 1 - Open CMD in your workspace path
 + Step 2 - Run ```git clone https://github.com/Torsumethkk51/my-first-react-app.git```
-+ Step 3 - Run ``` npm install ``` and ```bash npm run dev ```
++ Step 3 - Run ```npm install ``` and ```bash npm run dev```
 
 Let's enjoy in coding 😆
